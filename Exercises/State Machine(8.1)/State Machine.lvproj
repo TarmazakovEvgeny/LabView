@@ -10,6 +10,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="State Enum.ctl" Type="VI" URL="../State Enum.ctl"/>
+		<Item Name="State Machine(8.1).vi" Type="VI" URL="../State Machine(8.1).vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
